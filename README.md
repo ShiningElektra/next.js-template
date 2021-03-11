@@ -42,3 +42,9 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 - https://nextjs.org/docs/api-routes/introduction
 - https://stylelint.io/user-guide/get-started
 - https://github.com/prettier/stylelint-config-prettier
+- https://typicode.github.io/husky/#/
+- https://github.com/okonet/lint-staged
+
+### Note
+
+- You can skip verification with --no-verify in your git commands.
