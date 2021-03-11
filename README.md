@@ -46,6 +46,8 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 - https://github.com/okonet/lint-staged
 - https://storybook.js.org/docs/react/get-started/install
 - https://reactjs.org/docs/faq-structure.html
+- https://nextjs.org/docs/advanced-features/custom-server
+- https://github.com/vercel/next.js/tree/canary/examples/custom-server-typescript
 
 ### Note
 
